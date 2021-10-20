@@ -133,6 +133,7 @@ header .container {
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s;
+  -webkit-appearance: none;
 }
 .btn:hover {
   opacity: 0.7;
