@@ -66,7 +66,7 @@ header .container {
 }
 
 .fv {
-  background-image: url("../img/main-vsual-nontitle.png");
+  background-image: url("img/main-vsual-nontitle.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 480px;
