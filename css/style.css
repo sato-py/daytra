@@ -26,6 +26,9 @@ h2 {
 p {
   font-weight: 400;
 }
+input {
+ -webkit-appearance: none; 
+}
 .br1 {
   display: none;
 }
@@ -133,7 +136,6 @@ header .container {
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s;
-  -webkit-appearance: none;
 }
 .btn:hover {
   opacity: 0.7;
